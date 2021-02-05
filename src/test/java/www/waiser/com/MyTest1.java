@@ -65,7 +65,10 @@ public class MyTest1 {
         System.out.println(collect2);
 
         ArrayList<Double> doubles1 = new ArrayList<>();
-       
+
+
+
+        int s = 1;
 
     }
 
