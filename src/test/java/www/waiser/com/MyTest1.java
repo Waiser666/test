@@ -65,10 +65,7 @@ public class MyTest1 {
         System.out.println(collect2);
 
         ArrayList<Double> doubles1 = new ArrayList<>();
-        if ( doubles.size() == 0){
-            System.out.println(123);
-        }
-
+       
 
     }
 
@@ -76,7 +73,7 @@ public class MyTest1 {
     public void myTest(){
         User ez = new User("ez", 12, 13000);
         List<String> skills = ez.getSkills();
-
+        skills.add("123");
         if (skills!=null&&skills.size()>0){
             System.out.println("listbu为空");
         }
