@@ -68,6 +68,8 @@ public class MyTest1 {
         if ( doubles.size() == 0){
             System.out.println(123);
         }
+        int s = 1;
+
 
 
     }
