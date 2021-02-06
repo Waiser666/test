@@ -65,7 +65,8 @@ public class MyTest1 {
         System.out.println(collect2);
 
         ArrayList<Double> doubles1 = new ArrayList<>();
-        System.out.println("这是版本1");
+
+        System.out.println("这是版本2");
 
 
         int s = 1;
